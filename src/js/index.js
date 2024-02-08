@@ -6,8 +6,6 @@ import {
 	updatePasswordLength
 } from './password-functions';
 
-// Funciones
-
 changeLengthText();
 
 // Eventos
